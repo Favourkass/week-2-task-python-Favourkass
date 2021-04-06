@@ -47,7 +47,7 @@ database = [
         "last_name": "idewor",
         "email": "benjamin@decadev.com",
         "password": "decagon123",
-        "role": "enginer"
+        "role": "engineer"
     },
     {
         "first_name": "Oluwatosin",
